@@ -2,6 +2,8 @@ import React from 'react';
 import './App.css';
 import Navbar from './Navbar';
 import Card from './Card';
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 function App() {
   return (
